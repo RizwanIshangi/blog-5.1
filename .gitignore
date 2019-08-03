@@ -1,5 +1,5 @@
-/vendor
-/public/media
+/
+/
 /node_modules
 .idea
 .env

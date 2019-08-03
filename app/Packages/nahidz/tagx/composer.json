@@ -1,0 +1,12 @@
+{
+    "name": "nahidz/tagx",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Rizwan Ishangi",
+            "email": "rizwan.Ishangi@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
